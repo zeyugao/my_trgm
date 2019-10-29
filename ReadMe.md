@@ -1,6 +1,6 @@
 # MyTrgm
 
-A limited implement of 3-GRAM algorithm for calculating the similarity between two strings.
+A limited implement of 3-GRAM algorithm for calculating the similarity between two strings for MySQL.
 
 From pg_trgm
 
