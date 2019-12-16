@@ -21,6 +21,12 @@ Run this in MySQL
 CREATE FUNCTION trgm_similarity RETURNS REAL SONAME 'my_trgm.so';
 ```
 
+### Install by Make command
+
+```
+make my_trgm.so && make copy && make install # Maybe sudo required
+```
+
 ## Example
 
 ```sql
